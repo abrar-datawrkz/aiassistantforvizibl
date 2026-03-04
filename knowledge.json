@@ -1,0 +1,107 @@
+[
+  {
+    "category": "overview",
+    "title": "What is Vizibl",
+    "content": "Vizibl is a meta-DSP that unifies access to multiple leading programmatic advertising platforms into a single intuitive interface. Advertisers can activate campaigns across display, video, audio, CTV, DOOH, and Amazon inventory without managing multiple DSP contracts or meeting individual platform spend thresholds. Vizibl removes operational complexity while unlocking the strengths of each underlying DSP."
+  },
+  {
+    "category": "overview",
+    "title": "Why a Meta-DSP Model",
+    "content": "No single DSP performs equally well across all funnel stages, verticals, and geographies. Managing multiple DSPs independently creates contract complexity, fragmented reporting, duplicated efforts, and compliance burden. Vizibl eliminates this trade-off by orchestrating multiple DSPs from one seat, enabling right-DSP selection per funnel stage while maintaining unified reporting and control."
+  },
+  {
+    "category": "datawrkz_role",
+    "title": "Vizibl as a Datawrkz Product",
+    "content": "Vizibl is a product built by Datawrkz, a global adtech company with 250+ digital experts across the USA, UK, India, and Singapore. Datawrkz specializes in transparent, outcome-driven digital advertising and operates both advertiser and publisher technology solutions. Vizibl benefits from Datawrkz’s deep expertise in programmatic buying, retail data partnerships, compliance management, and multi-market execution."
+  },
+  {
+    "category": "dsp_integrations",
+    "title": "DSPs Available via Vizibl",
+    "content": "Vizibl provides unified access to leading DSPs including The Trade Desk, Amazon DSP, and Freewheel (formerly Beeswax). This allows advertisers to leverage Amazon’s first-party shopping signals, The Trade Desk’s omnichannel scale and UID 2.0 identity framework, and Beeswax’s log-level transparency and PMP flexibility within one consolidated interface."
+  },
+  {
+    "category": "channels",
+    "title": "Supported Ad Formats and Channels",
+    "content": "Vizibl supports display banners, rich media (HTML5), video (in-stream and out-stream), audio, CTV/OTT, and Digital Out-of-Home (DOOH). Campaigns can run across premium global publishers, apps, streaming platforms, and curated marketplace inventory with cross-channel optimization."
+  },
+  {
+    "category": "targeting",
+    "title": "Foundational Targeting",
+    "content": "Foundational targeting includes demographic targeting (age, gender, income, life stage), geographic targeting (country, city, radius), lifestyle and interest targeting, lookalike modeling, and retargeting. These settings ensure campaigns begin with relevant audience filters aligned to brand and market eligibility."
+  },
+  {
+    "category": "targeting",
+    "title": "Advanced Targeting Capabilities",
+    "content": "Vizibl enables multi-layered targeting using retail media data, Amazon first-party signals, contextual targeting, weather-based triggers, global third-party data marketplace segments, CRM onboarding (Bring Your Own Audience), geofencing, and lifestyle-based premium placements. Audience Relevance and Value Scores help identify the most cost-efficient segments before launch."
+  },
+  {
+    "category": "targeting",
+    "title": "Granular Delivery Controls",
+    "content": "Advertisers can refine delivery using device and operating system targeting, inventory type targeting (App or Web), domain allow/block lists, dayparting, and dynamic third-party segment optimization where AI automatically expands high-performing audiences and suppresses underperformers."
+  },
+  {
+    "category": "cdp",
+    "title": "Vizibl CDP and Proprietary Pixels",
+    "content": "Vizibl includes proprietary CDP pixels that capture privacy-safe behavioral signals across website visits, CRM activity, ad engagement, and cross-device touchpoints. The CDP enables custom segment creation, recency and frequency analysis, funnel drop-off identification, and instant audience activation into DSP campaigns for smarter retargeting."
+  },
+  {
+    "category": "identity",
+    "title": "Future-Proof Identity with UID 2.0",
+    "content": "Through The Trade Desk integration, Vizibl supports UID 2.0, a privacy-safe identity framework built on encrypted, consent-based first-party identifiers such as email or phone. UID 2.0 enables cross-device frequency management, reduced duplicate impressions, improved person-level reach, and future-proof targeting beyond third-party cookies."
+  },
+  {
+    "category": "retail_media",
+    "title": "Retail Media and Shopper Data",
+    "content": "Vizibl provides access to deterministic retail and commerce data from major retail partners across the US and EU. Advertisers can target verified shoppers, category buyers, and purchase-intent segments. Retail measurement capabilities allow brands to evaluate impact such as store visits and sales where supported."
+  },
+  {
+    "category": "ai_optimization",
+    "title": "AI-Driven Optimization",
+    "content": "Vizibl optimizes campaigns through efficiency optimization (placement, device, geography, environment, fold position) and performance optimization (automated budget allocation toward high-performing line items). Leveraging DSP AI engines such as Koa™, advertisers have seen improvements such as lower CPA, increased reach, and auction savings."
+  },
+  {
+    "category": "reporting",
+    "title": "Unified Reporting and Transparency",
+    "content": "Vizibl offers real-time dashboards and downloadable reports across domains, geographies, audience segments, devices, and conversion events. Full CPM breakdown transparency includes media cost, data cost, and premium inventory components. Beeswax integration allows log-level impression data for advanced transparency when required."
+  },
+  {
+    "category": "pricing",
+    "title": "Pricing Model",
+    "content": "Vizibl has no minimum spend requirements and no long-term lock-ins. Self-Serve users pay a platform fee as a percentage of ad spend. Managed Services users pay the platform fee plus an additional service fee. Wallet top-ups are available via card or wire transfer."
+  },
+  {
+    "category": "managed_services",
+    "title": "Service Models",
+    "content": "Vizibl offers Self-Serve, Managed Services, and Hybrid models. Self-Serve provides full campaign control. Managed Services includes expert-led planning, setup, execution, and optimization. Hybrid allows advertisers to self-manage while offloading complex or peak campaigns to the Vizibl team."
+  },
+  {
+    "category": "compliance",
+    "title": "Compliance and Regulated Inventory",
+    "content": "As a Datawrkz product, Vizibl adheres to GDPR and region-specific regulations. The platform does not collect PII by default and supports consent management and data portability. Vizibl provides access to compliant inventory for regulated verticals including iGaming, pharma, alcohol, and political advertising."
+  },
+  {
+    "category": "industry_use_cases",
+    "title": "iGaming Use Case",
+    "content": "For iGaming operators facing rising acquisition costs and compliance complexity, Vizibl enables intent-based targeting, regulated inventory access, geo-specific compliance guidance, optimized publisher selection, and retention-focused retargeting strategies. Campaign strategies focus on reducing player acquisition cost, increasing First Time Deposits (FTDs), and improving recurring revenue."
+  },
+  {
+    "category": "measurement",
+    "title": "Campaign Forecasting and Reach Preview",
+    "content": "Before launch, advertisers can preview unique audience size across app, web, and CTV environments. Media plan forecasting estimates impressions, reach, and frequency at chosen CPM levels, enabling data-driven budget planning."
+  },
+  {
+    "category": "faqs",
+    "title": "Minimum Spend and Test Campaigns",
+    "content": "Vizibl does not require minimum spend commitments. Advertisers are encouraged to begin with structured test campaigns to allow algorithms to learn and optimize before scaling budgets."
+  },
+  {
+    "category": "faqs",
+    "title": "Who is Vizibl For",
+    "content": "Vizibl is suitable for brands and agencies of all sizes, including small businesses and regulated advertisers. Agencies benefit from multi-client management, shared segments, unified reporting, and optional white-label access."
+  },
+{
+  "category": "contact",
+  "title": "How to Contact Vizibl Sales",
+  "content": "To get started with Vizibl, request a demo, discuss Managed Services, confirm inventory availability, or explore custom campaign requirements, advertisers can reach out directly to sales@vizibl.ai. The team can assist with onboarding, platform walkthroughs, campaign setup guidance, regulated category approvals, and regional inventory availability."
+}
+]
