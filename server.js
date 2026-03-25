@@ -276,7 +276,7 @@ ${context}
           content: userMessage,
         },
       ],
-      temperature: 0.3,
+      temperature: 0.7,
     });
 
     const reply = completion.choices[0].message.content;
